@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI资讯快报"
+  short_description: "搜集近三天全球AI动态，精选模型、研究与商业资讯，整理成飞书快报"
+  default_prompt: "使用 $ai-news 给我AI资讯，并整理成飞书文档。"
