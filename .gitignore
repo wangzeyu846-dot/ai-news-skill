@@ -1,9 +1,0 @@
-.DS_Store
-__pycache__/
-*.pyc
-.env
-.env.*
-!.env.example
-# 每次运行产生的个人草稿不随开源项目发布
-AI资讯快报-*.md
-AI资讯快报-*.html
