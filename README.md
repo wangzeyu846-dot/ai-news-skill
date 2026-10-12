@@ -2,6 +2,12 @@
 
 一个面向 Codex 的中文 Skill：说出「给我AI资讯」，搜集最近 72 小时的全球 AI 动态，核验与去重后，整理成便于阅读的飞书文档。
 
+## 产品介绍网站
+
+[查看「智能资讯助手」网站](https://wangzeyu846-dot.github.io/ai-news-skill/)
+
+网站源码与发布文件位于本仓库的 [gh-pages 分支](https://github.com/wangzeyu846-dot/ai-news-skill/tree/gh-pages)，通过 GitHub Pages 免费托管。
+
 ## 内容与交付
 
 - 覆盖模型与产品、技术与研究、行业与商业，兼顾国内外。
